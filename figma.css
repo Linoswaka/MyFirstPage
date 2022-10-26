@@ -1,0 +1,79 @@
+body{
+background: #E91310;
+
+}
+/* This is an abstract about the story. */
+
+h1{
+position: absolute;
+width: 341px;
+height: auto;
+
+
+font-family: 'Arapey';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 27px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+
+
+/* Its habitat */
+
+
+position: absolute;
+width: 123px;
+height: 31px;
+
+font-family: 'Inder';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 31px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* The humble Bird */
+
+
+position: absolute;
+width: 231px;
+height: 38px;
+
+font-family: 'Inder';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Varius et sit arcu consectetur diam, nullam suspendisse eget. Quis netus nec velit amet, felis elit. Proin facilisis tellus et, ut. Ac aliquet pellentesque sed nec laoreet. */
+
+
+position: absolute;
+width: 341px;
+height: 301px;
+
+font-family: 'Arapey';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 27px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;

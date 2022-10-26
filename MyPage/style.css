@@ -1,0 +1,21 @@
+
+main, header {
+    background-color: rgba(234, 224, 213,0.5);
+    padding: 1%;
+  
+  }
+  /* Typography*/
+  h1{
+    font: size 3pxrem;
+    font-family: cinzel Decorative, cursive;
+    text-align: center;
+
+}
+/* || header layout */
+
+header {
+    margin-bottom: 10px;
+    background-color: rgba(234, 224, 213);
+   
+  }
+  
