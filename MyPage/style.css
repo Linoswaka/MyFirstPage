@@ -2,14 +2,20 @@
 main, header {
     background-color: rgba(234, 224, 213,0.5);
     padding: 1%;
-  
+    border: 5px solid #000000;
+    border-radius: 15px;
   }
   /* Typography*/
   h1{
     font: size 3pxrem;
     font-family: cinzel Decorative, cursive;
     text-align: center;
-
+    flex: 5;
+  text-transform: uppercase;
+}
+h2{
+  font-family: cinzel Decorative, cursive;
+  text-align: center;
 }
 /* || header layout */
 
